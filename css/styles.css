@@ -1,0 +1,58 @@
+body{
+    background-color: white;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+div{
+   padding-top: 100px;
+    position: relative;
+}
+h1{
+    font-size: 562.5%;
+    margin-top: 0;
+    font-family: 'Sacramento', cursive;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 0;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+}
+.top-container{
+    background-color: #eaf6f6;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.contact-me{
+    background-color: #FDFCE5;
+}
+.bottom-container{
+    background-color: #C3BA85;
+}
+.skill-row{
+    background-color: #6E85B2;
+}
+.skill-row-food{
+    background-color: #80ED99;
+}
+.profile{
+    background-color: #FF6B6B;
+}
+hr{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.my-skills{
+    background-color: #F0F0CB;
+}
